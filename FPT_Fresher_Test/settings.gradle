@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "FPT_Test_Fresher_Android"

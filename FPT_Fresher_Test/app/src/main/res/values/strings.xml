@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FPT_Test_Fresher_Android</string>
+    <string name="name_software">Phần mềm quản lý phương tiện</string>
+    <string name="add_new_vehicle">Thêm phương tiện</string>
+    <string name="edit_vehicle">Sửa phương tiện</string>
+    <string name="delete_vehicle">Xóa phương tiện</string>
+
+    <string name="add">Thêm </string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="arrange">Sắp xếp</string>
+    <string name="search_by_name">Tìm kiếm theo tên</string>
+    <string name="filter_by_price_bigger">Lọc theo giá lớn hơn</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Hủy</string>
+    <string name="price">Giá</string>
+    <string name="name">Tên</string>
+    <string name="id">Mã</string>
+    <string name="id_need_delete">Mã cần xóa</string>
+    <string name="kind">Loại</string>
+
+
+    <string-array name="arrange_array">
+        <item>a -> z</item>
+        <item>z -> a</item>
+        <item>Giá tăng dần</item>
+        <item>Giá giảm dần</item>
+    </string-array>
+
+    <string name="check_id">Mã bạn nhập vào đã tồn tại trong hệ thống, vui lòng nhập mã khác</string>
+
+</resources>
